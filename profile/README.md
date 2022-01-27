@@ -1,4 +1,4 @@
-![Entrance](entrance.png)
+![Entrance](https://github.com/lifull/.github/raw/main/profile/entrance.png)
 
 # :mahjong: 採用情報
 「あらゆるLIFEを、FULLに。」  
