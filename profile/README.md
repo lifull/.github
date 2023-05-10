@@ -10,9 +10,6 @@
 あなたの LIFE、NULL になっていませんか？
 まずはあなたの LIFE を FULL にしましょう。
 
-[Qiita×LIFULL のカジュアル面談企画](https://plus.jobs.qiita.com/casual-talk-lifull/)実施中です！
-ぜひお気軽にご参加ください！
-
 採用情報はこちらのサイトから。
 LIFULL のビジョン、社長・社員からのメッセージ、など。
 [LIFULL RECRUITING SITE](http://recruit.lifull.com/)
@@ -21,6 +18,18 @@ LIFULL のビジョン、社長・社員からのメッセージ、など。
 [長沢 翼 インタビュー](https://recruit.lifull.com/engineer/interview_nagasawa/)
 
 # :zap: 情報発信源
+
+## :bird: LIFULL Developer Twitter
+
+LIFULL エンジニアの発信・登壇情報・ブログ など、エンジニアのみなさまに役に立つ情報を発信します。
+[LIFULL Developer Twitter](https://twitwitter.com/lifulldeveloper)
+
+## :movie_camera: LIFULL Developer Channel
+
+「エンジニアとして経営をリードする」ことで
+「あらゆる LIFE を、FULL に。」の実現を目指し活動する LIFULL のエンジニアが、
+技術やエンジニア組織の取り組みについて発信します。
+[LIFULL Developer Channel](https://www.youtube.com/@LIFULL_Developer_Channel)
 
 ## :penguin: LIFULL Creators Blog
 
