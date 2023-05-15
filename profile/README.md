@@ -28,7 +28,7 @@ LIFULL エンジニアの発信・登壇情報・ブログ など、エンジニ
 
 「エンジニアとして経営をリードする」ことで<br/>
 「あらゆる LIFE を、FULL に。」の実現を目指し活動する LIFULL のエンジニアが、<br/>
-技術やエンジニア組織の取り組みについて発信します。<br/>
+技術やエンジニア組織の取り組みについて発信するYoutubeチャンネルです。<br/>
 [LIFULL Developer Channel](https://www.youtube.com/@LIFULL_Developer_Channel)
 
 ## :penguin: LIFULL Creators Blog
