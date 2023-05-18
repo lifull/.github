@@ -22,7 +22,7 @@ LIFULL のビジョン、社長・社員からのメッセージ、など。<br/
 ## :bird: LIFULL Developer Twitter
 
 LIFULL エンジニアの発信・登壇情報・ブログ など、エンジニアのみなさまに役に立つ情報を発信します。<br/>
-[LIFULL Developer Twitter](https://twitwitter.com/lifulldeveloper)
+[LIFULL Developer Twitter](https://twitter.com/lifulldeveloper)
 
 ## :movie_camera: LIFULL Developer Channel
 
