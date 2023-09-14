@@ -19,10 +19,10 @@ LIFULL のビジョン、社長・社員からのメッセージ、など。<br/
 
 # :zap: 情報発信源
 
-## :bird: LIFULL Developer Twitter
+## ✖️ LIFULL Developer X (旧 Twitter)
 
 LIFULL エンジニアの発信・登壇情報・ブログ など、エンジニアのみなさまに役に立つ情報を発信します。<br/>
-[LIFULL Developer Twitter](https://twitter.com/lifulldeveloper)
+[LIFULL Developer X (旧 Twitter)](https://x.com/lifulldeveloper)
 
 ## :movie_camera: LIFULL Developer Channel
 
