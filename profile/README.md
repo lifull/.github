@@ -73,3 +73,4 @@ LIFULL のエンジニアが、Qiita で技術的な記事を発信していま�
   - [統計・機械学習編](https://qiita.com/advent-calendar/2020/lifull-ml)
 - [LIFULL Advent Calendar 2021](https://qiita.com/advent-calendar/2021/lifull)
 - [LIFULL Advent Calendar 2022](https://qiita.com/advent-calendar/2022/lifull)
+- [LIFULL Advent Calendar 2023](https://qiita.com/advent-calendar/2023/lifull)
