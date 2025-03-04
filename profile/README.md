@@ -55,6 +55,13 @@ LIFULL のエンジニアが、Qiita で技術的な記事を発信していま�
 
 ## :christmas_tree: アドベントカレンダー
 
+- [LIFULL Advent Calendar 2022](https://qiita.com/advent-calendar/2022/lifull)
+- [LIFULL Advent Calendar 2023](https://qiita.com/advent-calendar/2023/lifull)
+- [LIFULL Advent Calendar 2024](https://qiita.com/advent-calendar/2024/lifull)
+
+<details>
+  <summary>過去分</summary>
+
 - [LIFULL Advent Calendar 2016](https://qiita.com/advent-calendar/2016/lifull)
 - LIFULL Advent Calendar 2017
   - [その 1](https://qiita.com/advent-calendar/2017/lifull)
@@ -72,5 +79,4 @@ LIFULL のエンジニアが、Qiita で技術的な記事を発信していま�
   - [その 2](https://qiita.com/advent-calendar/2020/lifull2)
   - [統計・機械学習編](https://qiita.com/advent-calendar/2020/lifull-ml)
 - [LIFULL Advent Calendar 2021](https://qiita.com/advent-calendar/2021/lifull)
-- [LIFULL Advent Calendar 2022](https://qiita.com/advent-calendar/2022/lifull)
-- [LIFULL Advent Calendar 2023](https://qiita.com/advent-calendar/2023/lifull)
+</details>
